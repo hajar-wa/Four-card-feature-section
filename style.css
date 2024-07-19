@@ -55,7 +55,7 @@ body{
     box-shadow: 2px 5px 10px 0px var(--Grayish-blue);
     border-radius: 10px;
     padding: .5rem 2rem 0 ;
-    transition: all 0.7 ease;
+    transition: transform 0.7s ease;
 }
 .section:hover{
     scale: 1.1;
